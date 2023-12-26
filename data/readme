@@ -1,0 +1,3 @@
+'''
+"data" folder contains the raw feature data in the folder "Updated" (PRISM precip, temp, and UA SWE); USGS streamflow data at three stations (ARL, MRB, and SJR); monthly natrualized flow provided by the compitition organizor. 
+'''
